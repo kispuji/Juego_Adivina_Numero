@@ -10,8 +10,7 @@
         <!-- TRABAJANDO CON REPOSITORIOS EN NETBEANS -->
         
         <!-- CAMBIOS REALIZADOS TRAS EL PRIMER COMMIT -->
-        
-        
+           
         <fieldset id="limites">
             <legend><h1>Juego adivina un número</h1></legend>
             <fieldset>
